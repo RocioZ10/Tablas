@@ -1,0 +1,15 @@
+body{
+    background: rgb(150, 201, 214);
+}
+h1{
+    text-align: center;
+}
+p,ul,li{
+    font-size: 20px;
+}
+li{
+    color: red;
+}
+.gana{
+    color: white;
+}
